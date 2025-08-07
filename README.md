@@ -9,8 +9,6 @@
 - Processes all PDF files in the current folder
 - Runs OCR to make PDFs searchable (text layer added)
 - Outputs processed PDFs to an `output` subfolder
-- Simple, no-setup PowerShell script
-- Stupid-proof instructions for Windows users
 
 ---
 
@@ -128,7 +126,3 @@ This change is **temporary** and only for the current PowerShell window.
     ```
 
 4. **Processed PDFs will appear in the `output` subfolder.**
-
----
-
-**Happy OCR-ing!**
