@@ -4,22 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Step-by-Step Installation (Stupid-Proof)](#step-by-step-installation-stupid-proof)
-  - [1. Install Chocolatey](#1-install-chocolatey)
-  - [2. Install Python and Pip](#2-install-python-and-pip)
-  - [3. Install Required Packages (ocrmypdf, tesseract, ghostscript)](#3-install-required-packages-ocrmypdf-tesseract-ghostscript)
-  - [4. (Optional) Install Additional Recommended Packages](#4-optional-install-additional-recommended-packages)
-  - [5. Enable PowerShell Script Execution](#5-enable-powershell-script-execution)
-- [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
-- [Credits & License](#credits--license)
-
----
-
 ## Features
 
 - Processes all PDF files in the current folder
