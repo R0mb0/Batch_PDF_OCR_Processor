@@ -1,5 +1,13 @@
 # Batch PDF OCR Processor for Windows
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/77fc29e0462c4facbe8a163d4102a5d3)](https://app.codacy.com/gh/R0mb0/Batch_PDF_OCR_Processor/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/Batch_PDF_OCR_Processor)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/Batch_PDF_OCR_Processor)
+[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
+
 **Batch process all PDF files in a folder to make them searchable with OCR using [ocrmypdf](https://ocrmypdf.readthedocs.io/en/latest/) and a simple PowerShell script. Output files are saved in an `output` subfolder. Perfect for Windows users needing fast PDF text recovery.**
 
 ---
